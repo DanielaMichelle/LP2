@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\usuario123\source\repos\pruebas\pruebas\Source.cpp(195,10): warning C4101: '_titulo': variable local sin referencia
+C:\Users\usuario123\source\repos\pruebas\pruebas\Source.cpp(194,10): warning C4101: '_autor': variable local sin referencia
+C:\Users\usuario123\source\repos\pruebas\pruebas\Source.cpp(193,18): warning C4101: '_nroCopias': variable local sin referencia
+  pruebas.vcxproj -> C:\Users\usuario123\source\repos\pruebas\Debug\pruebas.exe
