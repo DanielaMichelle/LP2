@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\usuario123\source\repos\LP09_TEORIA\LP09_TEORIA\funciones.h(22,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  celular.cpp
+  Generando código...
+  LP09_TEORIA.vcxproj -> C:\Users\usuario123\source\repos\LP09_TEORIA\Debug\LP09_TEORIA.exe

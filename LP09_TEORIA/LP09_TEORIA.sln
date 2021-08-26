@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LP09_TEORIA", "LP09_TEORIA\LP09_TEORIA.vcxproj", "{CFD47FC8-3142-4BA3-A4A5-91B512BC88C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD47FC8-3142-4BA3-A4A5-91B512BC88C3}.Debug|x64.ActiveCfg = Debug|x64
+		{CFD47FC8-3142-4BA3-A4A5-91B512BC88C3}.Debug|x64.Build.0 = Debug|x64
+		{CFD47FC8-3142-4BA3-A4A5-91B512BC88C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFD47FC8-3142-4BA3-A4A5-91B512BC88C3}.Debug|x86.Build.0 = Debug|Win32
+		{CFD47FC8-3142-4BA3-A4A5-91B512BC88C3}.Release|x64.ActiveCfg = Release|x64
+		{CFD47FC8-3142-4BA3-A4A5-91B512BC88C3}.Release|x64.Build.0 = Release|x64
+		{CFD47FC8-3142-4BA3-A4A5-91B512BC88C3}.Release|x86.ActiveCfg = Release|Win32
+		{CFD47FC8-3142-4BA3-A4A5-91B512BC88C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82C2427B-045B-4564-A50F-E4AB414DD31F}
+	EndGlobalSection
+EndGlobal
