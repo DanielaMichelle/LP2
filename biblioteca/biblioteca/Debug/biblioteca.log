@@ -1,0 +1,8 @@
+﻿  bibliotecario.cpp
+  ejecutar01.cpp
+  ejecutar02.cpp
+  libro.cpp
+  Generando código...
+  LINK : no se encontró C:\Users\usuario123\proyects\LPII\biblioteca\Debug\biblioteca.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+ejecutar02.obj : error LNK2005: ya se definió _main en ejecutar01.obj
+C:\Users\usuario123\proyects\LPII\biblioteca\Debug\biblioteca.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
