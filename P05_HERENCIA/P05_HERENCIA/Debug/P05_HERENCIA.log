@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source1.cpp
+C:\Users\usuario123\proyects\LPII\P05_HERENCIA\P05_HERENCIA\Source1.cpp(13,30): warning C4356: 'Base::atributoStatic': no se puede inicializar el miembro de datos estático mediante una clase derivada
+  derivada.cpp
+  Generando código...
+  P05_HERENCIA.vcxproj -> C:\Users\usuario123\proyects\LPII\P05_HERENCIA\Debug\P05_HERENCIA.exe

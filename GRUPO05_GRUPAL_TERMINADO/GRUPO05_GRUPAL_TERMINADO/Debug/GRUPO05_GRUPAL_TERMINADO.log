@@ -1,0 +1,8 @@
+﻿  cliente.cpp
+  directivo.cpp
+  ejecutar_empresa.cpp
+  empleado.cpp
+C:\Users\usuario123\source\repos\GRUPO05_GRUPAL_TERMINADO\GRUPO05_GRUPAL_TERMINADO\empleado.cpp(33,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  persona.cpp
+  Generando código...
+  GRUPO05_GRUPAL_TERMINADO.vcxproj -> C:\Users\usuario123\source\repos\GRUPO05_GRUPAL_TERMINADO\Debug\GRUPO05_GRUPAL_TERMINADO.exe
